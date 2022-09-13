@@ -3,3 +3,4 @@
 2. It prints the groups the user is in
 3. Change ownership of file
 4. It creates an empty file
+5. Adds execute permissions to a file
