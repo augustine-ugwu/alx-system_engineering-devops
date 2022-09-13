@@ -4,3 +4,4 @@
 3. Change ownership of file
 4. It creates an empty file
 5. Adds execute permissions to a file
+6. Adds permission to execute to owner and group and read permission to other users
